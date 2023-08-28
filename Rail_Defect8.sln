@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rail_Defect8", "Rail_Defect8.pyproj", "{B900AEFF-7803-4FF9-9632-D6B6CF14604E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B900AEFF-7803-4FF9-9632-D6B6CF14604E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B900AEFF-7803-4FF9-9632-D6B6CF14604E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C994E1E-3CF8-4797-B382-8A6CAA15DC09}
+	EndGlobalSection
+EndGlobal
